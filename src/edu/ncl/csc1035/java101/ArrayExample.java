@@ -10,7 +10,6 @@ public class ArrayExample
                 numbers[2] = 300; */
 
                 int[] numbers = {100, 200, 300, 400, 500, 600, 700, 800, 900, 1000};
-
                 System.out.println(numbers[0]);
                 System.out.println(numbers[1]);
                 System.out.println(numbers[2]);
@@ -26,7 +25,6 @@ public class ArrayExample
                 characters[1] = 'b';
                 characters[2] = 'c';
                 characters[3] = 'd';
-
                 System.out.println(characters[0]);
                 System.out.println(characters[1]);
                 System.out.println(characters[2]);
